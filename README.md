@@ -17,6 +17,7 @@ Ajuda a antecipar demandas e necessidades de estoque, evitando gargalos e atraso
 - JavaFX (para a Interface gráfica)
 - SQlite
 - JDBC (para a conexão entre o programa e o banco de dados).
+- Padrão de Design DATA ACCESS OBJECT (DAO).
 
 ##  Funcionalidades
 - Adicionar: Adiciona um item ao banco de dados, com informações como ID, nome do produto, quantidade, preço e status de seu estoque.
